@@ -1,0 +1,11 @@
+{
+  "name": "audiobook-factory",
+  "version": "0.1.0",
+  "description": "Make audiobook for you",
+  "keywords": [],
+  "author": "Zed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
