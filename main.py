@@ -1,5 +1,7 @@
+from preprocessing.text import cli
+
 def main():
-    print("Hello from audiobook-factory!")
+    cli()
 
 
 if __name__ == "__main__":
